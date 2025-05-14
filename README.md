@@ -4,7 +4,7 @@ A modern, responsive video streaming application with a cinematic UI theme featu
 
 ![CineTube Screenshot](https://i.imgur.com/example.png)
 
-## Features
+ures
 
 - 🎬 Cinematic UI with elegant dark theme
 - 📱 Fully responsive design for all devices
